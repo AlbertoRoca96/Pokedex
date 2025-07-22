@@ -1,6 +1,7 @@
 # Pokedex
 README
-
+CREDIT:
+This project began as semester project directed by Dr. Rai, a professor at Longwood University, Samuel Hillman and I worked on this from Febuary to May of 2025. This project was then further extended to what it is now, directed by Dr. Marmorstein, another professor of computer science at Longwood University. 
 This folder must contain four data files and the live-capture script.
 
 predict\_live.py
